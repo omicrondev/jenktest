@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "129487023696",
+    "firebase_url": "https://firetest-c219c.firebaseio.com",
+    "project_id": "firetest-c219c",
+    "storage_bucket": "firetest-c219c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129487023696:android:2ea776df661a749d5b6b55",
+        "android_client_info": {
+          "package_name": "com.example.jenkinstest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129487023696-2us80p3q1u1addh6g19lmf6oo74kra8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9NYld2SP182jMQH7ehoFeccGkPVOGwgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129487023696-2us80p3q1u1addh6g19lmf6oo74kra8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
